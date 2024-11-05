@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\PED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|C:\\Users\\PC\\source\\repos\\PED\\ped\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|solutionrelative:ped\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|C:\\Users\\PC\\source\\repos\\PED\\ped\\booksform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|solutionrelative:ped\\booksform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|c:\\users\\pc\\source\\repos\\ped\\ped\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|solutionrelative:ped\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|c:\\users\\pc\\source\\repos\\ped\\ped\\loansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|solutionrelative:ped\\loansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|c:\\users\\pc\\source\\repos\\ped\\ped\\booksform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|solutionrelative:ped\\booksform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|C:\\Users\\PC\\source\\repos\\PED\\ped\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038D8CE-45B2-4BEE-BA23-EAD6FF0FAC06}|PED\\PED.csproj|solutionrelative:ped\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SISTEMA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PED\\PED\\SISTEMA.cs",
+              "RelativeDocumentMoniker": "PED\\SISTEMA.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PED\\PED\\SISTEMA.cs [Design]",
+              "RelativeToolTip": "PED\\SISTEMA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:36:59.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksForm .cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PED\\PED\\BooksForm .cs",
+              "RelativeDocumentMoniker": "PED\\BooksForm .cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PED\\PED\\BooksForm .cs [Design]",
+              "RelativeToolTip": "PED\\BooksForm .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:32:55.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoansForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PED\\PED\\LoansForm.cs",
+              "RelativeDocumentMoniker": "PED\\LoansForm.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PED\\PED\\LoansForm.cs [Design]",
+              "RelativeToolTip": "PED\\LoansForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:32:40.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PED\\PED\\UsersForm.cs",
+              "RelativeDocumentMoniker": "PED\\UsersForm.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PED\\PED\\UsersForm.cs [Design]",
+              "RelativeToolTip": "PED\\UsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:07:09.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksForm .cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PED\\PED\\BooksForm .cs",
+              "RelativeDocumentMoniker": "PED\\BooksForm .cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PED\\PED\\BooksForm .cs",
+              "RelativeToolTip": "PED\\BooksForm .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:02:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PED\\PED\\Program.cs",
+              "RelativeDocumentMoniker": "PED\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PED\\PED\\Program.cs",
+              "RelativeToolTip": "PED\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:30:23.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
